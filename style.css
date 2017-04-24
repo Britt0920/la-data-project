@@ -1,0 +1,30 @@
+nav{
+    text-align: left;
+    background-color:#66b3ff;
+    font-family:  ;
+  margin-top: 15px;
+  list-style-type: none;
+  padding-left: 0;
+  border-radius: 5px;
+  display: inline-block;
+}
+button{
+    color:black;
+}
+body{
+background-color:#f2e6ff;
+padding:10px;
+font-family: ;
+color: #66b3ff;
+font-size:20px;
+}
+.col{
+    float: left;
+     margin: 0 auto 0 auto;
+}
+img{
+ border: outset 7px #ccccb3;
+ padding: 10px;
+  margin: 10px auto 0 auto;
+}
+(satisfy,yellowtail)
